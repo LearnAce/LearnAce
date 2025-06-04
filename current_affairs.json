@@ -1,32 +1,48 @@
 {
-  "date": "2025-03-03",
+  "date": "2025-06-04",
+  "state": "Tamil Nadu",
   "current_affairs": [
     {
       "id": 1,
-      "title": "it's not worked",
-      "date": "2025-06-01",
-      "category": "Science & Technology",
-      "description": "ISRO successfully conducted a test flight for its first manned space mission, Gaganyaan. The test validated all major systems including the crew escape mechanism.",
-      "source": "https://www.tnpsc.gov.in/",
-      "tags": ["ISRO", "Gaganyaan", "Space", "India"]
+      "title": "பேருந்து பாதுகாப்பு மேம்பாடு",
+      "category": "மாநில செய்தி",
+      "description": "தமிழ்நாடு அரசு 500 அரசுப் பேருந்துகளில் ஓட்டுநர் கண்காணிப்பு அமைப்புகள் மற்றும் 360° கேமராக்களை நிறுவ திட்டமிட்டுள்ளது. இது விபத்துகளைத் தடுக்கும் முயற்சியாகும்.",
+      "source": "https://tamil.samayam.com/latest-news/state-news/new-bus-safety-system-launched-soon-in-500-tamil-nadu-buses/articleshow/121609500.cms"
     },
     {
       "id": 2,
-      "title": "World Environment Day to be Celebrated on June 5",
-      "date": "2025-06-01",
-      "category": "Environment",
-      "description": "This year’s World Environment Day will focus on land restoration, desertification, and drought resilience. Events will be hosted globally with a major summit in Nairobi, Kenya.",
-      "source": "https://www.unep.org",
-      "tags": ["Environment", "UNEP", "Sustainability"]
+      "title": "கரியச்சல்லி தீவு பாதுகாப்பு திட்டம்",
+      "category": "சுற்றுச்சூழல்",
+      "description": "தூத்துக்குடியில் உள்ள கரியச்சல்லி தீவை பாதுகாக்க ₹50 கோடி மதிப்பில் திட்டம் தொடங்கப்பட்டுள்ளது. 300 கிராமவாசிகள் பங்கேற்கின்றனர்.",
+      "source": "https://economictimes.indiatimes.com/news/new-updates/tamil-nadus-multi-crore-mission-how-300-villagers-and-8500-reef-blocks-aim-to-save-a-sinking-island-and-create-jobs-too/articleshow/121615127.cms"
     },
     {
       "id": 3,
-      "title": "India Defeats Pakistan in T20 World Cup 2025 Opener",
-      "date": "2025-06-01",
-      "category": "Sports",
-      "description": "India won by 6 wickets in a high-voltage match against Pakistan in the opening game of ICC T20 World Cup 2025 held in New York.",
-      "source": "https://icc-cricket.com",
-      "tags": ["T20 World Cup", "India vs Pakistan", "Cricket"]
+      "title": "ஜூன் 5 மின்தடை அறிவிப்பு",
+      "category": "அரசு அறிவிப்பு",
+      "description": "பராமரிப்பு பணிகளுக்காக கோயம்புத்தூர், சேலம், கரூர் உள்ளிட்ட பகுதிகளில் ஜூன் 5 அன்று மின்தடை அமலாகும்.",
+      "source": "https://tamil.samayam.com/latest-news/state-news/power-shutdown-in-tamilnadu-on-june-05-2025-full-list/articleshow/121608933.cms"
+    },
+    {
+      "id": 4,
+      "title": "ஆன்லைன் விளையாட்டுகள் கட்டுப்பாடு",
+      "category": "நீதிமன்றம்",
+      "description": "மதராஸ் உயர்நீதிமன்றம் தமிழ்நாடு அரசின் ஆன்லைன் பணவழி விளையாட்டுகளுக்கான கட்டுப்பாடுகளை நிலைநிறுத்தியுள்ளது.",
+      "source": "https://economictimes.indiatimes.com/tech/technology/madras-hc-upholds-tamil-nadus-restrictions-on-real-money-games/articleshow/121620221.cms"
+    },
+    {
+      "id": 5,
+      "title": "பள்ளிகள் மீண்டும் திறப்பு",
+      "category": "கல்வி",
+      "description": "தமிழ்நாட்டில் பள்ளிகள் ஜூன் 2 அன்று மீண்டும் திறக்கப்பட்டன. 2,510 சிறப்பு பேருந்துகள் இயக்கப்பட்டன.",
+      "source": "https://www.indiatvnews.com/education/news/tamil-nadu-schools-to-reopen-on-june-2-tn-transport-corporation-deploys-2-510-special-buses-for-students-2025-05-30-992544"
+    },
+    {
+      "id": 6,
+      "title": "'Thug Life' திரைப்பட வெளியீடு",
+      "category": "சினிமா",
+      "description": "மணி ரத்னம் இயக்கத்தில் கமல் ஹாசன் நடிக்கும் 'Thug Life' திரைப்படம் ஜூன் 5 அன்று வெளியிடப்படுகிறது.",
+      "source": "https://en.wikipedia.org/wiki/Thug_Life_(2025_film)"
     }
   ]
 }
