@@ -3,8 +3,8 @@
   "current_affairs": [
     {
       "id": 1,
-      "title": "it's worked",
-      "date": "2025-06-03",
+      "title": "it's not worked",
+      "date": "2025-06-01",
       "category": "Science & Technology",
       "description": "ISRO successfully conducted a test flight for its first manned space mission, Gaganyaan. The test validated all major systems including the crew escape mechanism.",
       "source": "https://www.tnpsc.gov.in/",
@@ -13,7 +13,7 @@
     {
       "id": 2,
       "title": "World Environment Day to be Celebrated on June 5",
-      "date": "2025-06-03",
+      "date": "2025-06-01",
       "category": "Environment",
       "description": "This year’s World Environment Day will focus on land restoration, desertification, and drought resilience. Events will be hosted globally with a major summit in Nairobi, Kenya.",
       "source": "https://www.unep.org",
@@ -22,7 +22,7 @@
     {
       "id": 3,
       "title": "India Defeats Pakistan in T20 World Cup 2025 Opener",
-      "date": "2025-06-02",
+      "date": "2025-06-01",
       "category": "Sports",
       "description": "India won by 6 wickets in a high-voltage match against Pakistan in the opening game of ICC T20 World Cup 2025 held in New York.",
       "source": "https://icc-cricket.com",
